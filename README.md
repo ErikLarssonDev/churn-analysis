@@ -3,7 +3,7 @@ A Random Forest model designed to predict customer churn.
 
 ## Data description
 
-###client_data.csv
+### client_data.csv
 
 * id = client company identifier
 * activity_new = category of the company’s activity
